@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Juan Pablo Huertas</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px>, I'm Juan Pablo Huertas</h1>
 <h3 align="center">A passionate full stack developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanpablohuertas&label=Profile%20views&color=0e75b6&style=flat" alt="juanpablohuertas" /> </p>
+
+<h2> About Me</h2>
 
 - 🔭 I’m currently working in the company [SMART DATA CONTACT](https://smartdatacontact.com)
 
@@ -13,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/juanpablohuertas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juanpablohuertas" height="30" width="40" /></a>
 </p>
-
+<h2></h2>
 <h2 align="left">Skills</h2>
 <h4 align="left">Languages:</h4>
 <p align="left"> 
