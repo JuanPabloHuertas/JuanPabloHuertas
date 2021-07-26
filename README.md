@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Juan Pablo Huertas, software developer.
+
 <!--
 **JuanPabloHuertas/JuanPabloHuertas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
