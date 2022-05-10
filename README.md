@@ -5,7 +5,7 @@
 
 <h2> About Me</h2>
 
-- 🔭 I’m currently working in the company [SMART DATA CONTACT](https://smartdatacontact.com)
+- 🔭 I’m currently working in the company [Ilógica](https://ilogica.cl)
 
 - 🌱 I’m currently learning **Golang**
 
